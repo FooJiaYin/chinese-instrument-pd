@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.6.1/p5.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.6.1/addons/p5.dom.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.6.1/addons/p5.sound.min.js"></script>
+    <script src="./jquery-3.6.0.min.js"></script>
+    <script src="./webpd-latest.min.js"></script>
+    <script>
+     var patch
+        $.get('drum_erhu_dizi_web.txt', function(patchStr) {
+          patch = Pd.loadPatch(patchStr);
+        })
+    </script>
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <meta charset="utf-8" />
+
+  </head>
+  <body>
+    <script src="sketch.js"></script>
+  </body>
+</html>
