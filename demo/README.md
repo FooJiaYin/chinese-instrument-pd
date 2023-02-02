@@ -9,5 +9,5 @@ Digital Sound Art and Creation Final Project
     - [Demo](https://github.com/FooJiaYin/chinese-instrument-pd/blob/main/demo/花好月圓.wav)
 
 - 《臺灣燈會》(reaper)
-    - [Source (reaper)](https://github.com/FooJiaYin/chinese-instrument-pd/blob/main/demo/臺灣燈會.pd)
+    - [Source (reaper)](https://github.com/FooJiaYin/chinese-instrument-pd/blob/main/demo/臺灣燈會.rpp)
     - [Demo](https://drive.google.com/file/d/1xV75tCX5cG_qIIKs19MwHvTJBjx4yMEe/view?usp=drivesdk)
